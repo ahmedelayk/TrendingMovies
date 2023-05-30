@@ -68,7 +68,7 @@ export default function AddMovie() {
                         <input className='form-control' type="text" id='overview' name='overview' value={movieOverview} onChange={handleOverviewInput} />
                     </div>
                     <div className='text-center'>
-                        <input className='btn btn-primary' type="button" value='Add' onClick={handleAdd} />
+                        <input className='btn btn-primary mt-2' type="button" value='Add' onClick={handleAdd} />
                     </div>
                 </form>
             </div>

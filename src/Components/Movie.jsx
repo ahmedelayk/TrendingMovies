@@ -21,15 +21,15 @@ export default function Movie({movie, deleteMov}) {
   return (
     <>
     <div className='col-sm-6 col-md-4 col-lg-3 p-1'>
-        <div className='text-white rounded bg-secondary overflow-hidden shadow-box'>
-            <img className='w-100 ' src={imgPath} alt={movie.title} title={movie.title} onClick={()=>{showDetails(movie.id)}} onError={handleImageError}/>
+        <div className='text-white rounded bg-sec overflow-hidden'>
+            <img className='w-100 clickable' src={imgPath} alt={movie.title} title={movie.title} onClick={()=>{showDetails(movie.id)}} onError={handleImageError}/>
             <div className='p-2'>
                 <div className='mt-2'>
-                    <h6 className='' onClick={()=>{showDetails(movie.id)}} >{movie.title}</h6>
+                    <h6 className='clickable' onClick={()=>{showDetails(movie.id)}} >{movie.title}</h6>
                     <h6 className=''>{parseInt(movie.release_date)}</h6>
                 </div>
                 <div className='d-flex justify-content-between p-2'>
-                    <span className='imdb_btn' >{(movie.vote_average)}</span>
+                    <span className='imdb_btn'><i className="fa-solid fa-star star-icon"></i>{(movie.vote_average)}</span>
                     <Link className='' to={`/movieupdate/${movie.id}`}><button className='update-btn'>Update</button></Link>
                     <button className='delete_btn' onClick={handleDelete}>Delete</button>
                 </div>

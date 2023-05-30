@@ -87,25 +87,12 @@
       "vote_count": 1378
     },
     {
-      "adult": false,
-      "backdrop_path": "/oblUNeHlwV3VsjB5ITMlco5ZSOF.jpg",
       "id": 493529,
-      "title": "Dungeons & Dragons: Honor Among Thieves",
-      "original_language": "en",
-      "original_title": "Dungeons & Dragons: Honor Among Thieves",
+      "title": "Dungeons & Dragons",
+      "release_date": "2023-03-23",
       "overview": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
       "poster_path": "/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",
-      "media_type": "movie",
-      "genre_ids": [
-        12,
-        14,
-        35
-      ],
-      "popularity": 943.946,
-      "release_date": "2023-03-23",
-      "video": false,
-      "vote_average": 7.48,
-      "vote_count": 1313
+      "vote_average": 7.48
     },
     {
       "adult": false,
@@ -128,25 +115,12 @@
       "vote_count": 430
     },
     {
-      "adult": false,
-      "backdrop_path": "/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
       "id": 640146,
-      "title": "Ant-Man and the Wasp: Quantumania",
-      "original_language": "en",
-      "original_title": "Ant-Man and the Wasp: Quantumania",
+      "title": "Ant-Man and the Wasp",
+      "release_date": "2023-02-15",
       "overview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
       "poster_path": "/A7SobaUTvb6d5Z3dpOhFxPG0RQf.jpg",
-      "media_type": "movie",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "popularity": 3897.568,
-      "release_date": "2023-02-15",
-      "video": false,
-      "vote_average": 6.524,
-      "vote_count": 2718
+      "vote_average": 6.524
     },
     {
       "adult": false,
@@ -420,206 +394,6 @@
       "video": false,
       "vote_average": 5.837,
       "vote_count": 362
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "a2dc171d-55aa-4417-ae1f-c4f477b01e60"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "6fcf817b-c60a-45ae-b4bf-0b853b2175e0"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "1e78abbd-9f0e-46bc-8b5c-146b35483b6d"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "e32ab856-c0f2-4a3a-a9ee-27b457e63996"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "39edb7bd-bbf4-4a8c-ba8f-acab0595ff11"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "8430c5da-d86e-4186-828a-5db8dd022ce2"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "fcc86d14-04d8-4113-b029-4e6ba6cf0370"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "fde89416-4a5a-4cff-b0e9-1946b12664b4"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "85fdacb8-bbce-4eff-821e-36ba1df8317a"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "c37b5c7e-5b85-4c20-a39f-c06cd9e565db"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "88028185-cd60-4b31-8d08-f1725a15203c"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "ed386ed3-8c60-402d-91cb-0adcc00631b0"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "fdb8b28a-5d5d-4086-b9a1-d60c36c72828"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "ce4ffd49-0323-43d8-86f7-03ce544881df"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "acd6afc8-17db-47ab-8c2a-cca2edc0be24"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "ce9004f2-1581-449d-8b29-d23619f53c4d"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "38c4d93c-dac2-4b6e-b6f4-5b0b2b2245bd"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "90033feb-019e-4e39-b35e-ba79c13f3ece"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "91efcb20-4287-4f64-96ea-38cdfc988f51"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "461882e3-cacf-4638-85c8-df8d25cce63a"
-    },
-    {
-      "title": "elayek",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9",
-      "id": "2e9f034f-c592-4751-907b-a9f0ddf7d9cf"
-    },
-    {
-      "id": "3fe28693-f122-44c5-b4ca-ca9d258db4b5",
-      "title": "Obaida",
-      "release_date": "2015",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9"
-    },
-    {
-      "id": "c7c65e2a-d298-4bf8-90b7-a7970b4ba1a8",
-      "title": "ayoooooooook",
-      "release_date": "2023",
-      "overview": "a great movie",
-      "poster_path": "/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg",
-      "vote_average": "8.9145451"
-    },
-    {
-      "title": "adsa",
-      "release_date": "2023",
-      "overview": "asdas",
-      "poster_path": "/asdasda",
-      "vote_average": "12",
-      "id": "83966b24-4a79-4599-b48c-f0f234d0abc9"
-    },
-    {
-      "title": "mkjhj",
-      "release_date": "2113",
-      "overview": "21545",
-      "poster_path": "/2154514654",
-      "vote_average": "21",
-      "id": "12e1aef1-20c9-42c2-8b5f-a3957428866e"
     }
   ]
 }

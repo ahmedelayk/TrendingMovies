@@ -17,19 +17,19 @@ export default function Home() {
     const deleteMov = (id) => {
         Swal.fire({
             title: 'Are you sure?',
-            text: "You won't be able to revert this!",
+            text: "",
             icon: 'warning',
             showCancelButton: true,
+            // confirmButtonColor: '#3085d6',
             confirmButtonColor: '#3085d6',
-            cancelButtonColor: '#d33',
+            // cancelButtonColor: '#d33',
+            cancelButtonColor: '#1A1A1A',
             confirmButtonText: 'Yes, delete it!'
           }).then((result) => {
             if (result.isConfirmed) {
                 dispatch(deleteMovie(id));
               Swal.fire(
-                'Deleted!',
-                'Your file has been deleted.',
-                'success'
+                'Deleted successfully'
               )
             }
           })
