@@ -1,38 +1,88 @@
-.App {
-  text-align: center;
+.nav-shadow {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.view-100 {
+  height: calc(100vh - 106px);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* imdb_btn */
+.imdb_btn{
+  display: inline-block;
+  outline: none;
+  font-weight: 600;
+  border-radius: 3px;
+  padding: 10px 15px;
+  border: 0;
+  color: #0c0b00;
+  background: #deb522;
+  line-height: 1.15;
+  font-size: 16px;
+  
+}
+.imdb_btn:hover{
+  transition: all .1s ease;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+.delete_btn {
+  
+  display: inline-block;
+  outline: none;
+  cursor: pointer;
+  font-weight: 600;
+  border-radius: 3px;
+  padding: 10px 15px;
+  border: 0;
+  /* color: #000021; */
+  color: #FFFFDD;
+  background: #cc1f1f;
+  line-height: 1.15;
+  font-size: 16px;
+  
+
+}
+.delete_btn:hover {
+  transition: all .3s;
+  box-shadow: 0 0 0 0 #fff, 0 0 0 3px #cc1f1f;
 }
 
-.App-link {
-  color: #61dafb;
+.bg-main {
+background-color: #353e465c;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.update-btn {
+  
+  display: inline-block;
+  outline: none;
+  cursor: pointer;
+  font-weight: 600;
+  border-radius: 3px;
+  padding: 12px 24px;
+  border: 0;
+  color: #fff;
+  background: #000a47;
+  line-height: 1.15;
+  font-size: 16px;
+  
+
+}
+.update-btn:hover {
+  transition: all .1s ease;
+  box-shadow: 0 0 0 0 #fff, 0 0 0 3px #1de9b6;
+}
+
+
+.shadow-box {
+  box-shadow: rgb(255 255 255 / 15%) 0px 0px 5px 0px;
+}
+
+
+.view-100-add {
+  height: calc(100vh - 155px);
+}
+
+.footer-shadow {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px -3px 8px;
 }
