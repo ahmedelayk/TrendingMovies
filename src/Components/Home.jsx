@@ -5,6 +5,7 @@ import { getAllMovies, deleteMovie } from '../Redux/actionCreators'
 import { v4 as uuid } from 'uuid';
 import Movie from './Movie';
 import Swal from 'sweetalert2';
+import Loader from './Loader/Loader';
 
 
 export default function Home() {
@@ -39,7 +40,7 @@ export default function Home() {
         <>
             <div className='container'>
                 <div className="row my-2">
-                    {globalState.movies ? globalState.movies.map((movie) => <Movie key={uuid()} movie={movie} deleteMov={deleteMov} />) : <h3>Data not found</h3>}
+                    {globalState.movies ? globalState.movies.map((movie) => <Movie key={uuid()} movie={movie} deleteMov={deleteMov} />) : <div className='h-75'><Loader/></div> }
                 </div>
             </div>
         </>

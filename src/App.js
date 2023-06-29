@@ -3,6 +3,7 @@ import './App.css';
 import { Suspense, lazy } from 'react';
 import { Provider } from 'react-redux';
 import { store } from './Redux/Store';
+import Loader from './Components/Loader/Loader';
 
 const Home = lazy(() => import('./Components/Home'))
 const Layout = lazy(() => import('./Components/Layout'))
@@ -26,7 +27,7 @@ function App() {
     ])
 
     return (<>
-        <Suspense fallback={<h3>Loading...</h3>}>
+        <Suspense fallback={<Loader/>}>
             <Provider store={store}>
                 <RouterProvider router={routers}></RouterProvider>
             </Provider>
